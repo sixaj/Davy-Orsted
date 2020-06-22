@@ -1,5 +1,5 @@
 ---
-title: 'Davy '
+title: Davy & Orsted
 subtitle: Luxe boten
 image: "/img/home-jumbotron.jpg"
 blurb:
