@@ -7,3 +7,5 @@ fields:
   config:
     required: false
   label: Header-tekst
+pages:
+- content/_index.md.html
