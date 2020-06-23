@@ -1,7 +1,7 @@
 ---
 title: Davy & Orsted
 subtitle: Luxe boten
-image: site/static/img/white-yacht-on-running-on-blue-body-of-water-during-daytime-163236.jpg
+image: ''
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
