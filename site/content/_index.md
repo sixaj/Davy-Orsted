@@ -4,9 +4,7 @@ subtitle: Luxe boten
 image: img/white-and-brown-boat-1007836.jpg
 intro:
   heading: Wie zijn Davy & Orsted
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee production,
-    roasting and brewing seriously and we’re glad to pass that knowledge to anyone.
+  text: Sir Humphry Davy en Hans Christiaan Ørsted, twee wetenschappers aan wie we het moderne gebruik van aluminium danken. Verbindingen van aluminium zijn al uit de oudheid bekend, bijvoorbeeld in de vorm van aluin om bloed te stelpen.
 products:
 - image: img/illustrations-coffee.svg
   text: We sell green and roasted coffee beans that are sourced directly from independent
