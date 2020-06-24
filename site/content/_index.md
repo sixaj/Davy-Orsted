@@ -1,7 +1,7 @@
 ---
 title: Davy & Orsted
 subtitle: Luxe boten
-image: white-and-brown-boat-1007836.jpg
+image: img/white-and-brown-boat-1007836.jpg
 intro:
   heading: Wie zijn Davy & Orsted
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
