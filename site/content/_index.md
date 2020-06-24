@@ -1,5 +1,5 @@
 ---
-title: Davy & Orste
+title: Davy & Orsted
 subtitle: Luxe boten
 image: img/white-and-brown-boat-1007836.jpg
 intro:
