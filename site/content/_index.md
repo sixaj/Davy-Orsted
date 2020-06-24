@@ -4,7 +4,10 @@ subtitle: Luxe boten
 image: img/white-and-brown-boat-1007836.jpg
 intro:
   heading: Wie zijn Davy & Orsted
-  text: Sir Humphry Davy en Hans Christiaan Ørsted, twee wetenschappers aan wie we het moderne gebruik van aluminium danken. Verbindingen van aluminium zijn al uit de oudheid bekend, bijvoorbeeld in de vorm van aluin om bloed te stelpen.
+  text: Sir Humphry Davy en Hans Christiaan Ørsted, twee wetenschappers aan wie we
+    het moderne gebruik van aluminium danken. Verbindingen van aluminium zijn al uit
+    de oudheid bekend, bijvoorbeeld in de vorm van aluin om bloed te stelpen.
+  blurbs: []
 products:
 - image: img/illustrations-coffee.svg
   text: We sell green and roasted coffee beans that are sourced directly from independent
