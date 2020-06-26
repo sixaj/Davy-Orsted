@@ -26,7 +26,7 @@ values:
     colonialism and mindless abuse of natural resources and human lives. We want to
     turn this around and return the coffee trade to the drink’s exhilarating, empowering
     and unifying nature.
-section1:
+blurb:
   heading: Boten
   text: Kaldi is the coffee store for everyone who believes that great coffee shouldn't
     just taste good, it should do good too. We source all of our beans directly from
