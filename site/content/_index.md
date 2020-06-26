@@ -1,6 +1,6 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: Davy & Orsted
+subtitle: Luxe boten
 image: "/img/white-yacht-on-running-on-blue-body-of-water-during-daytime-163236.jpg"
 blurb:
   heading: Why Kaldi?
