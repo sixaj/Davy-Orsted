@@ -2,6 +2,12 @@
 title: Davy & Orsted
 subtitle: Luxe boten
 image: img/white-and-brown-boat-1007836.jpg
+blurb:
+  heading: Boten
+  text: Kaldi is the coffee store for everyone who believes that great coffee shouldn't
+    just taste good, it should do good too. We source all of our beans directly from
+    small scale sustainable farmers and make sure part of the profits are reinvested
+    in their communities.
 intro:
   heading: Wie zijn Davy & Orsted
   text: Sir Humphry Davy en Hans Christiaan Ørsted, twee wetenschappers aan wie we
@@ -26,11 +32,6 @@ values:
     colonialism and mindless abuse of natural resources and human lives. We want to
     turn this around and return the coffee trade to the drink’s exhilarating, empowering
     and unifying nature.
-blurb:
-  heading: Boten
-  text: Kaldi is the coffee store for everyone who believes that great coffee shouldn't
-    just taste good, it should do good too. We source all of our beans directly from
-    small scale sustainable farmers and make sure part of the profits are reinvested
-    in their communities.
+
 
 ---
