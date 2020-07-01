@@ -3,11 +3,10 @@ title: Davy & Orsted
 subtitle: Luxe boten
 image: "/img/white-yacht-on-running-on-blue-body-of-water-during-daytime-163236.jpg"
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee shouldn't
-    just taste good, it should do good too. We source all of our beans directly from
-    small scale sustainable farmers and make sure part of the profits are reinvested
-    in their communities.
+  heading: What's in a name?
+  text: Sir Humphry Davy en Hans Christiaan Ørsted, twee wetenschappers aan wie we
+    het moderne gebruik van aluminium danken. Verbindingen van aluminium zijn al uit
+    de oudheid bekend, bijvoorbeeld in de vorm van aluin om bloed te stelpen.
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
