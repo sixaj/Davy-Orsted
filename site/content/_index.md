@@ -16,8 +16,9 @@ products:
 - image: img/jachthaven1.jpg
   text: Unieke stek aan de Nieuwe Meer in Amsterdam. Een perfecte locatie voor een
     bedrijfspresentatie of feest.
-- image: ''
-  text: ''
+- image: img/winterstalling.jpg
+  text: Uw Davy & Ørsted is natuurlijk het best beschermd in onze winterstalling.
+    Betaalbaar en veilig overwinteren.
 - image: img/moonraker3.jpg
   text: Deze stoere, no-nonsense sportboot, vernoemd naar een James Bond film, combineert
     uitstekende sportieve en praktische vaareigenschappen met een unieke hightech
