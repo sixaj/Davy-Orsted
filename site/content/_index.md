@@ -13,8 +13,9 @@ intro:
     java’s origin and support the farmers that grew it. We take coffee production,
     roasting and brewing seriously and we’re glad to pass that knowledge to anyone.
 products:
-- image: ''
-  text: ''
+- image: img/jachthaven1.jpg
+  text: Unieke stek aan de Nieuwe Meer in Amsterdam. Een perfecte locatie voor een
+    bedrijfspresentatie of feest.
 - image: ''
   text: ''
 - image: img/moonraker3.jpg
