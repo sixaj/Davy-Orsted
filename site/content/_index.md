@@ -22,10 +22,9 @@ products:
     uitstekende sportieve en praktische vaareigenschappen met een unieke hightech
     uitstraling.
 - image: "/img/illustrations-coffee-gear.svg"
-  text: We offer a small, but carefully curated selection of brewing gear and tools
-    for every taste and experience level. No matter if you roast your own beans or
-    just bought your first french press, you’ll find a gadget to fall in love with
-    in our shop.
+  text: Een degelijke alleskunner, een boot zonder onderhoud maar wel met veel ruimte.
+    Met deze eigenschappen als uitgangspunt, ontwikkelde Davy & Ørsted deze stoere
+    open console boot, de 'Marshal 700'.
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too – one
