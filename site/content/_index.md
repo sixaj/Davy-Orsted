@@ -17,7 +17,7 @@ products:
   text: ''
 - image: ''
   text: ''
-- image: img/illustrations-coffee.svg
+- image: img/moonraker3.jpg
   text: Deze stoere, no-nonsense sportboot, vernoemd naar een James Bond film, combineert
     uitstekende sportieve en praktische vaareigenschappen met een unieke hightech
     uitstraling.
