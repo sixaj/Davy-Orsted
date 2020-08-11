@@ -4,9 +4,15 @@ subtitle: Luxe boten
 image: "/img/white-yacht-on-running-on-blue-body-of-water-during-daytime-163236.jpg"
 blurb:
   heading: What's in a name?
-  text: Sir Humphry Davy en Hans Christiaan Ørsted, twee wetenschappers aan wie we
-    het moderne gebruik van aluminium danken. Verbindingen van aluminium zijn al uit
-    de oudheid bekend, bijvoorbeeld in de vorm van aluin om bloed te stelpen.
+  text: De sloep is vernoemd naar Sir Humphry Davy en Hans Christiaan Ørsted, twee
+    wetenschappers aan wie we het moderne gebruik van aluminium danken. Verbindingen
+    van aluminium zijn al uit de oudheid bekend, bijvoorbeeld in de vorm van aluin
+    om bloed te stelpen. Het was echter Sir Humphry Davy die via zijn eigen elektrolysemethode
+    pas in 1807 het pure aluminium ontdekte. Hans Christiaan Ørsted kwam in 1825 vervolgens
+    met de eerste succesvolle productiemethode voor aluminium. Deze methode was zo
+    kostbaar, dat aluminium jarenlang werd gebruikt in ornamenten, zoals goud en zilver.
+    Sinds 1886 is er een productiemethode die het gebruik van aluminium op grote schaal
+    mogelijk maakt.
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
