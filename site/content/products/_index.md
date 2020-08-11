@@ -1,5 +1,5 @@
 ---
-title: Our Coffee
+title: Onze producten
 type: products
 heading: What we offer
 products:
