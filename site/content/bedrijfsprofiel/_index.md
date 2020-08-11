@@ -1,5 +1,5 @@
 ---
-title: Davy & Orsted
+title: Bedrijfsprofiel
 subtitle: Luxe boten
 image: "/img/white-yacht-on-running-on-blue-body-of-water-during-daytime-163236.jpg"
 blurb:
@@ -27,6 +27,5 @@ products:
   text: Een degelijke alleskunner, een boot zonder onderhoud maar wel met veel ruimte.
     Met deze eigenschappen als uitgangspunt, ontwikkelde Davy & Ørsted deze stoere
     open console boot, de 'Marshal 700'.
-
 
 ---
