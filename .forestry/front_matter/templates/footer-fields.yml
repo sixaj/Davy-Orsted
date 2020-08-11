@@ -1,4 +1,22 @@
 ---
 label: FOOTER FIELDS
 hide_body: true
-fields: []
+fields:
+- name: footer
+  type: field_group_list
+  fields:
+  - name: footer_link
+    type: text
+    config:
+      required: false
+    label: footer link
+  - name: footer_text
+    type: text
+    config:
+      required: false
+    label: footer text
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: footer
