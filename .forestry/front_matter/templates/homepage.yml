@@ -8,3 +8,5 @@ fields:
     required: false
   label: Header-tekst
   description: Typ een header voor je site
+pages:
+- site/content/bedrijfsprofiel/_index.md.html
