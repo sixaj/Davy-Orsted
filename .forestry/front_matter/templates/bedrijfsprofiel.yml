@@ -1,10 +1,9 @@
 ---
-label: Homepage
-hide_body: false
+label: Bedrijfsprofiel
+hide_body: true
 fields:
 - name: header-tekst
   type: text
   config:
     required: false
   label: Header-tekst
-  description: Typ een header voor je site

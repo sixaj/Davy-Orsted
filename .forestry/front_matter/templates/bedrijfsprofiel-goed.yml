@@ -1,0 +1,18 @@
+---
+label: Bedrijfsprofiel goed
+hide_body: false
+fields:
+- name: header
+  type: text
+  config:
+    required: false
+  label: Header
+- name: tekst
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: tekst
