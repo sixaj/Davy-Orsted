@@ -20,3 +20,5 @@ fields:
     max: 
     labelField: 
   label: footer
+pages:
+- site/content/footer/_footer.md.html
