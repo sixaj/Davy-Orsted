@@ -27,8 +27,6 @@ products:
   text: Een degelijke alleskunner, een boot zonder onderhoud maar wel met veel ruimte.
     Met deze eigenschappen als uitgangspunt, ontwikkelde Davy & Ørsted deze stoere
     open console boot, de 'Marshal 700'.
-values:
-  heading: ''
-  text: ''
+
 
 ---
