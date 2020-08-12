@@ -1,4 +1,12 @@
 ---
 label: Bedrijfsprofiel
 hide_body: false
-fields: []
+fields:
+- name: page_sections
+  type: blocks
+  label: Page section
+  template_types:
+  - bedrijfsprofiel
+  config:
+    min: 
+    max: 
