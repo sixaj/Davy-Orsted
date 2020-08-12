@@ -1,4 +1,5 @@
 +++
+title = "Bedrijfsprofiel"
 [[page_sections]]
 template = "grid"
 [[page_sections.grid]]
