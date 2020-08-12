@@ -8,7 +8,9 @@ description = "Stoer, stijlvol en no-nonsense, dat zijn de kenmerken van Davy &a
 header = "Sloepen"
 image = "site/static/img/sloepen-300x209.jpg"
 [[products_grid]]
-description = ""
+description = "Deze stoere, no-nonsense sportboot, vernoemd naar een James Bond film, combineert uitstekende sportieve en praktische vaareigenschappen met een unieke hightech uitstraling. "
+header = "Moonraker"
+image = "site/static/img/moonraker3-300x209.jpg"
 [[products_grid]]
 description = ""
 
