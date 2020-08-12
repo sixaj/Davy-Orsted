@@ -9,6 +9,9 @@ sections:
   label: Pages
   create: all
   match: "**/*"
+  templates:
+  - grid-text-image
+  - bedrijfsprofiel
 upload_dir: site/static/img
 public_path: site/static/img
 front_matter_path: ''
