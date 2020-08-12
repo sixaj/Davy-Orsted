@@ -24,3 +24,5 @@ fields:
     min: 
     max: 
   label: Page sections
+pages:
+- site/content/jachthaven/jachthaven.html
