@@ -51,3 +51,30 @@ fields:
     max: 
     labelField: 
   label: Intro
+- name: products_grid
+  type: field_group_list
+  fields:
+  - name: image
+    type: file
+    config:
+      maxSize: 64
+    label: Image
+  - name: header
+    type: text
+    config:
+      required: false
+    label: Header
+  - name: description
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Description
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Products GRID
