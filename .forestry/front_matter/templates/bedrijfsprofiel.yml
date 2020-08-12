@@ -1,9 +1,0 @@
----
-label: Bedrijfsprofiel
-hide_body: true
-fields:
-- name: header-tekst
-  type: text
-  config:
-    required: false
-  label: Header-tekst
