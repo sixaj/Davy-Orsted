@@ -7,5 +7,9 @@ image = "site/static/img/header-jachthaven.png"
 description = "Een perfecte locatie voor een bedrijfspresentatie of feest."
 header = "Unieke stek aan de Nieuwe Meer"
 image = "site/static/img/davyorsted-jachthaven-2-300x183.png"
+[[products_grid]]
+description = "De jachthaven heeft een zomerse en relaxte uitstraling. Een oase van rust aan de zuid as van Amsterdam. Een top stek voor een presentatie of bedrijfsfeest. De jachthaven is dus gewoon te huur."
+header = "Vergaderen, presentaties, feesten"
+image = "site/static/img/davyorsted-jachthaven-1-300x183.png"
 
 +++
