@@ -1,4 +1,5 @@
 +++
+title = "Winterstalling"
 [[intro]]
 description = "Natuurlijk kan de oerdegelijke Davy & Ørsted sloep overwinteren in het water. Een beetje vorst kan deze degelijke sloep zeker aan. Zorg evoor dat het water is afgetapt, dat er voldoende anti vries in alle leidingen en de motor zit, dan kan de sloep lekker blijven liggen."
 image = "site/static/img/header-winterstalling.png"
