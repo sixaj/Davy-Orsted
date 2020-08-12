@@ -1,4 +1,17 @@
 ---
 label: Page
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: page_sections
+  type: blocks
+  template_types:
+  - grid
+  config:
+    min: 
+    max: 
+  label: Page sections
