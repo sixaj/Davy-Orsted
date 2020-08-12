@@ -11,5 +11,9 @@ image = "site/static/img/davyorsted-jachthaven-2-300x183.png"
 description = "De jachthaven heeft een zomerse en relaxte uitstraling. Een oase van rust aan de zuid as van Amsterdam. Een top stek voor een presentatie of bedrijfsfeest. De jachthaven is dus gewoon te huur."
 header = "Vergaderen, presentaties, feesten"
 image = "site/static/img/davyorsted-jachthaven-1-300x183.png"
+[[products_grid]]
+description = "Feesten tot ongeveer 200 man zijn mogelijk."
+header = "Een scala aan mogelijkheden"
+image = "site/static/img/davyorsted-jachthaven-3-300x183.png"
 
 +++
