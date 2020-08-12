@@ -12,6 +12,8 @@ description = "Deze stoere, no-nonsense sportboot, vernoemd naar een James Bond 
 header = "Moonraker"
 image = "site/static/img/moonraker3-300x209.jpg"
 [[products_grid]]
-description = ""
+description = "Een degelijke alleskunner, een boot zonder onderhoud maar wel met veel ruimte. Met deze eigenschappen als uitgangspunt, ontwikkelde Davy &amp; Ørsted deze stoere open console boot, de 'Marshal 700'."
+header = "Marshall 700"
+image = "site/static/img/marshal1-300x209.jpg"
 
 +++
